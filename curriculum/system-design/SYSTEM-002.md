@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/system-002-choose-vertical-horizontal-and-load-balanc`
+`task/<github-username>/system-002-choose-vertical-horizontal-and-load-balanc`
 
 ## Commit Message
 

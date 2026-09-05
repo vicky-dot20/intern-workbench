@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docker-005-compose-an-app-with-postgresql`
+`task/<github-username>/docker-005-compose-an-app-with-postgresql`
 
 ## Commit Message
 

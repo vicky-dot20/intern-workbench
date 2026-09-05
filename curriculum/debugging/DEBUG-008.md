@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/debug-008-run-a-production-like-incident-and-write-t`
+`task/<github-username>/debug-008-run-a-production-like-incident-and-write-t`
 
 ## Commit Message
 

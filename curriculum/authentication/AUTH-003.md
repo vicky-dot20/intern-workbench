@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-003-login-logout-cookies-and-sessions`
+`task/<github-username>/auth-003-login-logout-cookies-and-sessions`
 
 ## Commit Message
 

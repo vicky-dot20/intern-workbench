@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/system-005-design-file-delivery-cdn-reliability-and-m`
+`task/<github-username>/system-005-design-file-delivery-cdn-reliability-and-m`
 
 ## Commit Message
 

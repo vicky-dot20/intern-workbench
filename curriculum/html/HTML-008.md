@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/html-008-run-an-html-accessibility-audit`
+`task/<github-username>/html-008-run-an-html-accessibility-audit`
 
 ## Commit Message
 

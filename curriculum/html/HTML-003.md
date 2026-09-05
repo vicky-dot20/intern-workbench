@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/html-003-build-accessible-tables`
+`task/<github-username>/html-003-build-accessible-tables`
 
 ## Commit Message
 

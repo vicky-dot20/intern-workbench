@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-004-loading-error-and-not-found-ui`
+`task/<github-username>/next-004-loading-error-and-not-found-ui`
 
 ## Commit Message
 

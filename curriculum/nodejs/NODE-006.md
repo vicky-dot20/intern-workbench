@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/node-006-validation-errors-and-logging`
+`task/<github-username>/node-006-validation-errors-and-logging`
 
 ## Commit Message
 

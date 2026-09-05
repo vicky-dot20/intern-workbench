@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-006-model-roles-and-permissions`
+`task/<github-username>/auth-006-model-roles-and-permissions`
 
 ## Commit Message
 

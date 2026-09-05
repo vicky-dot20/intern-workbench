@@ -3,7 +3,7 @@
 ## Issue to merge
 
 1. Mentor creates an Issue titled `[TASK-ID] Task title` and assigns it.
-2. Intern checks prerequisites, pulls the default branch, and creates the task's branch.
+2. Intern checks prerequisites, pulls the default branch, and creates `task/<github-username>/<task-id>-<slug>` so ownership is visible and parallel attempts do not collide.
 3. Intern implements in small commits, runs focused checks, and keeps the diff scoped.
 4. Intern opens a non-draft PR only when the template and evidence are complete.
 5. CI validates objective properties. A green check does not mean the work is approved.

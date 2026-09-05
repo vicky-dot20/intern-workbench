@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docker-002-ports-volumes-and-environment-variables`
+`task/<github-username>/docker-002-ports-volumes-and-environment-variables`
 
 ## Commit Message
 

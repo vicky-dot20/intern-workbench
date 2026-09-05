@@ -6,8 +6,9 @@
 4. Use GUIDED, PARTIALLY-GUIDED, INDEPENDENT, or AMBIGUOUS and make the amount of procedural help match it.
 5. Reference only existing stable task IDs as prerequisites. Prefer a dependency graph over a single chain.
 6. State exact files, observable acceptance criteria, reproducible run/test commands, required evidence, AI disclosure, and a mentor checklist.
-7. Keep shared explanations in `docs/`; tasks should be executable specifications, not textbooks.
-8. Add the task to the catalogue and run validation.
+7. Use `task/<github-username>/<task-id>-<slug>` for task branches so parallel intern work stays identifiable and collision-free.
+8. Keep shared explanations in `docs/`; tasks should be executable specifications, not textbooks.
+9. Add the task to the catalogue and run validation.
 
 Deprecate with `status: deprecated`; keep the file and ID reserved. Estimates describe focused work, not deadlines. Review task usefulness and maintenance cost before adding it.
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/system-003-design-caching-queues-and-stateless-work`
+`task/<github-username>/system-003-design-caching-queues-and-stateless-work`
 
 ## Commit Message
 

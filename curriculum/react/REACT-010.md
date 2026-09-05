@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-010-accessible-reusable-components`
+`task/<github-username>/react-010-accessible-reusable-components`
 
 ## Commit Message
 

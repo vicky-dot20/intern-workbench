@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-007-build-and-repair-a-complete-ci-pipeline`
+`task/<github-username>/cicd-007-build-and-repair-a-complete-ci-pipeline`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/test-008-repair-failing-tests-and-enforce-them-in-c`
+`task/<github-username>/test-008-repair-failing-tests-and-enforce-them-in-c`
 
 ## Commit Message
 

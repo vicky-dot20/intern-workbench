@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-003-design-the-database-api-ui-and-test-strate`
+`task/<github-username>/final-003-design-the-database-api-ui-and-test-strate`
 
 ## Commit Message
 

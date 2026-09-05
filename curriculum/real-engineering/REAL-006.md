@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/real-006-find-and-close-testing-and-security-gaps`
+`task/<github-username>/real-006-find-and-close-testing-and-security-gaps`
 
 ## Commit Message
 

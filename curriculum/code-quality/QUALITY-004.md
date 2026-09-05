@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/quality-004-recognize-code-smells-and-solid-boundaries`
+`task/<github-username>/quality-004-recognize-code-smells-and-solid-boundaries`
 
 ## Commit Message
 

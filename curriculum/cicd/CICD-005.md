@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-005-configure-pull-request-checks-and-protecti`
+`task/<github-username>/cicd-005-configure-pull-request-checks-and-protecti`
 
 ## Commit Message
 

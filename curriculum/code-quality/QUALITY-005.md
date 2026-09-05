@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/quality-005-refactor-without-changing-behavior`
+`task/<github-username>/quality-005-refactor-without-changing-behavior`
 
 ## Commit Message
 

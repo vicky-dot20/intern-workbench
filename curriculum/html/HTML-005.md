@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/html-005-add-metadata-and-seo-fundamentals`
+`task/<github-username>/html-005-add-metadata-and-seo-fundamentals`
 
 ## Commit Message
 

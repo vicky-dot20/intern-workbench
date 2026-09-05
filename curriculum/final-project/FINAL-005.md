@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-005-implement-core-features-through-focused-pu`
+`task/<github-username>/final-005-implement-core-features-through-focused-pu`
 
 ## Commit Message
 

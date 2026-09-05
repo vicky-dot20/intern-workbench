@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-006-respond-to-a-requirement-change-and-bug-re`
+`task/<github-username>/final-006-respond-to-a-requirement-change-and-bug-re`
 
 ## Commit Message
 

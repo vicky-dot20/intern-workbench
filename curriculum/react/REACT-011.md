@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-011-test-and-debug-a-react-feature`
+`task/<github-username>/react-011-test-and-debug-a-react-feature`
 
 ## Commit Message
 

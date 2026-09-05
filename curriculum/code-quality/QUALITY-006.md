@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/quality-006-improve-errors-logging-and-configuration`
+`task/<github-username>/quality-006-improve-errors-logging-and-configuration`
 
 ## Commit Message
 

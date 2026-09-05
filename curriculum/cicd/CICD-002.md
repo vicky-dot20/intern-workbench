@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-002-install-dependencies-reproducibly`
+`task/<github-username>/cicd-002-install-dependencies-reproducibly`
 
 ## Commit Message
 

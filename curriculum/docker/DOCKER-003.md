@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docker-003-containerize-a-frontend`
+`task/<github-username>/docker-003-containerize-a-frontend`
 
 ## Commit Message
 

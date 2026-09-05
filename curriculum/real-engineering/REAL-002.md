@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/real-002-diagnose-an-unknown-product-bug`
+`task/<github-username>/real-002-diagnose-an-unknown-product-bug`
 
 ## Commit Message
 

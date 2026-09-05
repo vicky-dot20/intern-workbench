@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/real-003-convert-a-product-requirement-into-a-techn`
+`task/<github-username>/real-003-convert-a-product-requirement-into-a-techn`
 
 ## Commit Message
 

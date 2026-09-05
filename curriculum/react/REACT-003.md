@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-003-lists-keys-and-composition`
+`task/<github-username>/react-003-lists-keys-and-composition`
 
 ## Commit Message
 

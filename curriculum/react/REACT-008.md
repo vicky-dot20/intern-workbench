@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-008-context-and-state-boundaries`
+`task/<github-username>/react-008-context-and-state-boundaries`
 
 ## Commit Message
 

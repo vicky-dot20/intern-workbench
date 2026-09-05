@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-007-validate-and-test-authentication-flows`
+`task/<github-username>/auth-007-validate-and-test-authentication-flows`
 
 ## Commit Message
 

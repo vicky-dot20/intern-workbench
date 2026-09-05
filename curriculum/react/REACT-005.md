@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-005-effects-and-api-integration`
+`task/<github-username>/react-005-effects-and-api-integration`
 
 ## Commit Message
 

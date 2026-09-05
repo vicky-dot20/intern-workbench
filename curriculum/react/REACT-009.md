@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-009-memoization-and-rendering-performance`
+`task/<github-username>/react-009-memoization-and-rendering-performance`
 
 ## Commit Message
 

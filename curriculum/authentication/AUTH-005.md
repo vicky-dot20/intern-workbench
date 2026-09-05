@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-005-protect-routes-and-handle-auth-errors`
+`task/<github-username>/auth-005-protect-routes-and-handle-auth-errors`
 
 ## Commit Message
 

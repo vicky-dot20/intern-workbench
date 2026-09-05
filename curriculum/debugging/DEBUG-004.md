@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/debug-004-reproduce-and-isolate-a-frontend-bug`
+`task/<github-username>/debug-004-reproduce-and-isolate-a-frontend-bug`
 
 ## Commit Message
 

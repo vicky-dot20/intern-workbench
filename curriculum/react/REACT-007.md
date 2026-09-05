@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-007-refs-and-custom-hooks`
+`task/<github-username>/react-007-refs-and-custom-hooks`
 
 ## Commit Message
 

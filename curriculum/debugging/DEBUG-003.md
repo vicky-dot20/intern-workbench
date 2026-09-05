@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/debug-003-use-breakpoints-and-stack-traces`
+`task/<github-username>/debug-003-use-breakpoints-and-stack-traces`
 
 ## Commit Message
 

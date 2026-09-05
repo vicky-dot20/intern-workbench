@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/quality-001-improve-naming-and-function-design`
+`task/<github-username>/quality-001-improve-naming-and-function-design`
 
 ## Commit Message
 

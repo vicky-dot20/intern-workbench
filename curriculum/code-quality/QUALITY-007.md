@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/quality-007-restructure-a-maintainability-problem`
+`task/<github-username>/quality-007-restructure-a-maintainability-problem`
 
 ## Commit Message
 

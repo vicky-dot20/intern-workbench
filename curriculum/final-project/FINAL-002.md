@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-002-create-milestones-issues-and-an-architectu`
+`task/<github-username>/final-002-create-milestones-issues-and-an-architectu`
 
 ## Commit Message
 

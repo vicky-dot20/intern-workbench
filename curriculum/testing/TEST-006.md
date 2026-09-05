@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/test-006-test-apis-components-and-forms`
+`task/<github-username>/test-006-test-apis-components-and-forms`
 
 ## Commit Message
 

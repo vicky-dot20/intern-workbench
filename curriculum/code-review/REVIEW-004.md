@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/review-004-review-tests-and-missing-edge-cases`
+`task/<github-username>/review-004-review-tests-and-missing-edge-cases`
 
 ## Commit Message
 
