@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docs-005-record-decisions-and-changes`
+`task/<github-username>/docs-005-record-decisions-and-changes`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docs-002-document-architecture-and-environment-vari`
+`task/<github-username>/docs-002-document-architecture-and-environment-vari`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-002-app-router-pages-layouts-and-navigation`
+`task/<github-username>/next-002-app-router-pages-layouts-and-navigation`
 
 ## Commit Message
 

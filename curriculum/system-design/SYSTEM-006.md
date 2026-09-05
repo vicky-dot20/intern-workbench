@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/system-006-review-a-production-architecture`
+`task/<github-username>/system-006-review-a-production-architecture`
 
 ## Commit Message
 

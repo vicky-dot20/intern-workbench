@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docs-003-document-an-api`
+`task/<github-username>/docs-003-document-an-api`
 
 ## Commit Message
 

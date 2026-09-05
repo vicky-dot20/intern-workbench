@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-003-automate-lint-format-and-type-checks`
+`task/<github-username>/cicd-003-automate-lint-format-and-type-checks`
 
 ## Commit Message
 

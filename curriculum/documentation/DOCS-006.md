@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docs-006-audit-and-improve-existing-documentation`
+`task/<github-username>/docs-006-audit-and-improve-existing-documentation`
 
 ## Commit Message
 

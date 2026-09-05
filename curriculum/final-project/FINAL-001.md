@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-001-select-the-product-and-clarify-requirement`
+`task/<github-username>/final-001-select-the-product-and-clarify-requirement`
 
 ## Commit Message
 

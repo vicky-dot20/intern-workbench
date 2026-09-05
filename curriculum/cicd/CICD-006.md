@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-006-handle-environments-and-deployment-concept`
+`task/<github-username>/cicd-006-handle-environments-and-deployment-concept`
 
 ## Commit Message
 

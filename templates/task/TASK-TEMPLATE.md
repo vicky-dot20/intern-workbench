@@ -28,6 +28,9 @@ status: active
 ## AI Usage Requirements
 ## Submission Instructions
 ## Branch Name
+
+`task/<github-username>/phase-nnn-short-slug`
+
 ## Commit Message
 ## Pull Request Requirements
 ## Mentor Review Checklist

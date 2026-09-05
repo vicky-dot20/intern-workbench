@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/react-002-state-events-and-conditional-rendering`
+`task/<github-username>/react-002-state-events-and-conditional-rendering`
 
 ## Commit Message
 

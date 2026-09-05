@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/node-003-build-an-http-server-and-router`
+`task/<github-username>/node-003-build-an-http-server-and-router`
 
 ## Commit Message
 

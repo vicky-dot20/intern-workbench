@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-003-dynamic-routes-and-route-parameters`
+`task/<github-username>/next-003-dynamic-routes-and-route-parameters`
 
 ## Commit Message
 

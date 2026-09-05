@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/system-004-plan-database-scaling-and-replication`
+`task/<github-username>/system-004-plan-database-scaling-and-replication`
 
 ## Commit Message
 

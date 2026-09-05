@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/test-004-write-end-to-end-tests`
+`task/<github-username>/test-004-write-end-to-end-tests`
 
 ## Commit Message
 

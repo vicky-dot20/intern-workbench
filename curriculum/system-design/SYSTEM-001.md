@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/system-001-model-scalability-and-service-boundaries`
+`task/<github-username>/system-001-model-scalability-and-service-boundaries`
 
 ## Commit Message
 

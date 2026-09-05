@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/html-001-create-a-semantic-html-document`
+`task/<github-username>/html-001-create-a-semantic-html-document`
 
 ## Commit Message
 

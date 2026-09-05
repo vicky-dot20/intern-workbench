@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/html-007-build-a-product-and-documentation-page`
+`task/<github-username>/html-007-build-a-product-and-documentation-page`
 
 ## Commit Message
 

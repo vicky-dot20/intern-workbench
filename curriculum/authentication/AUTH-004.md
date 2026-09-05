@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-004-understand-jwt-tradeoffs`
+`task/<github-username>/auth-004-understand-jwt-tradeoffs`
 
 ## Commit Message
 

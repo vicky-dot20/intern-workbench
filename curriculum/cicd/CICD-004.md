@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-004-automate-tests-and-builds`
+`task/<github-username>/cicd-004-automate-tests-and-builds`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-008-prepare-a-release-demo-and-retrospective`
+`task/<github-username>/final-008-prepare-a-release-demo-and-retrospective`
 
 ## Commit Message
 

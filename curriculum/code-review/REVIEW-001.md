@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/review-001-review-for-readability-and-correctness`
+`task/<github-username>/review-001-review-for-readability-and-correctness`
 
 ## Commit Message
 

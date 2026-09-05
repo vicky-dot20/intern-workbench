@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-007-server-actions-and-validation`
+`task/<github-username>/next-007-server-actions-and-validation`
 
 ## Commit Message
 

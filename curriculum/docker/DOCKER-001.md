@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docker-001-images-containers-and-dockerfiles`
+`task/<github-username>/docker-001-images-containers-and-dockerfiles`
 
 ## Commit Message
 

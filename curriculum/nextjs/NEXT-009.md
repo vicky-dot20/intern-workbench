@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-009-route-handlers-auth-and-database-integrati`
+`task/<github-username>/next-009-route-handlers-auth-and-database-integrati`
 
 ## Commit Message
 

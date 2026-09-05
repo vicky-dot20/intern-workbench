@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-007-complete-security-performance-documentatio`
+`task/<github-username>/final-007-complete-security-performance-documentatio`
 
 ## Commit Message
 

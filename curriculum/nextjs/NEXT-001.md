@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-001-initialize-a-current-next-js-project`
+`task/<github-username>/next-001-initialize-a-current-next-js-project`
 
 ## Commit Message
 

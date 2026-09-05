@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docs-001-write-a-useful-project-readme-and-setup-gu`
+`task/<github-username>/docs-001-write-a-useful-project-readme-and-setup-gu`
 
 ## Commit Message
 

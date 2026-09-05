@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/test-002-write-focused-unit-tests`
+`task/<github-username>/test-002-write-focused-unit-tests`
 
 ## Commit Message
 

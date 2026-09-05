@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/real-008-propose-defend-and-implement-a-technical-s`
+`task/<github-username>/real-008-propose-defend-and-implement-a-technical-s`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-001-authentication-authorization-and-threat-mo`
+`task/<github-username>/auth-001-authentication-authorization-and-threat-mo`
 
 ## Commit Message
 

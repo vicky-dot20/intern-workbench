@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/final-004-deliver-the-first-vertical-slice`
+`task/<github-username>/final-004-deliver-the-first-vertical-slice`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/debug-002-debug-with-browser-devtools-and-the-consol`
+`task/<github-username>/debug-002-debug-with-browser-devtools-and-the-consol`
 
 ## Commit Message
 

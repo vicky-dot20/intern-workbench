@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/test-007-test-authentication-and-edge-cases`
+`task/<github-username>/test-007-test-authentication-and-edge-cases`
 
 ## Commit Message
 

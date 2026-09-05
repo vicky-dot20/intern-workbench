@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/node-002-environment-and-filesystem-operations`
+`task/<github-username>/node-002-environment-and-filesystem-operations`
 
 ## Commit Message
 

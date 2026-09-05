@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/cicd-001-ci-cd-concepts-and-workflow-files`
+`task/<github-username>/cicd-001-ci-cd-concepts-and-workflow-files`
 
 ## Commit Message
 

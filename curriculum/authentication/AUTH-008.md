@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-008-audit-and-harden-an-authentication-feature`
+`task/<github-username>/auth-008-audit-and-harden-an-authentication-feature`
 
 ## Commit Message
 

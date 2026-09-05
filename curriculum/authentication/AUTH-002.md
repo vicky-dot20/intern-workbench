@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/auth-002-register-users-and-hash-passwords`
+`task/<github-username>/auth-002-register-users-and-hash-passwords`
 
 ## Commit Message
 

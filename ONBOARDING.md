@@ -24,10 +24,10 @@ Open the Issue assigned by your mentor. Confirm its title begins with a curricul
 ```bash
 git switch main
 git pull --ff-only
-git switch -c task/ori-001-software-development
+git switch -c task/octocat/ori-001-software-development
 ```
 
-Use the exact branch name in the task when one is supplied.
+Replace `octocat` with your GitHub username. This keeps branches unique and shows who owns the work. Use the remaining task branch name exactly as supplied.
 
 ## 4. Work and validate
 

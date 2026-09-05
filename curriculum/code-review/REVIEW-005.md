@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/review-005-write-useful-respectful-review-comments`
+`task/<github-username>/review-005-write-useful-respectful-review-comments`
 
 ## Commit Message
 

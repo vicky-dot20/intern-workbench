@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/quality-003-apply-dry-and-kiss-with-judgment`
+`task/<github-username>/quality-003-apply-dry-and-kiss-with-judgment`
 
 ## Commit Message
 

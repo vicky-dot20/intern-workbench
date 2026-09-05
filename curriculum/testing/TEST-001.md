@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/test-001-testing-strategy-assertions-and-structure`
+`task/<github-username>/test-001-testing-strategy-assertions-and-structure`
 
 ## Commit Message
 

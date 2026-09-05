@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/real-004-add-a-feature-without-regressions`
+`task/<github-username>/real-004-add-a-feature-without-regressions`
 
 ## Commit Message
 

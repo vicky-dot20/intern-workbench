@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/node-007-dependencies-configuration-and-security`
+`task/<github-username>/node-007-dependencies-configuration-and-security`
 
 ## Commit Message
 

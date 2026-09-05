@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/node-008-build-and-test-a-maintainable-backend`
+`task/<github-username>/node-008-build-and-test-a-maintainable-backend`
 
 ## Commit Message
 

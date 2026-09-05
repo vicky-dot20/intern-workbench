@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/html-006-create-responsive-page-structure`
+`task/<github-username>/html-006-create-responsive-page-structure`
 
 ## Commit Message
 

@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/perf-001-establish-a-performance-baseline`
+`task/<github-username>/perf-001-establish-a-performance-baseline`
 
 ## Commit Message
 

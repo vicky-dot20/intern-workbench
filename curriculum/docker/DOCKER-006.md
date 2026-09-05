@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/docker-006-debug-and-document-a-full-local-environmen`
+`task/<github-username>/docker-006-debug-and-document-a-full-local-environmen`
 
 ## Commit Message
 

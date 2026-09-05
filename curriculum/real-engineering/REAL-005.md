@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/real-005-refactor-an-unfamiliar-legacy-feature`
+`task/<github-username>/real-005-refactor-an-unfamiliar-legacy-feature`
 
 ## Commit Message
 

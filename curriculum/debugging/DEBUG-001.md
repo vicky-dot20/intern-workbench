@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/debug-001-use-a-repeatable-debugging-method`
+`task/<github-username>/debug-001-use-a-repeatable-debugging-method`
 
 ## Commit Message
 

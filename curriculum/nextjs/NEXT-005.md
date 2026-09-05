@@ -98,7 +98,7 @@ Complete the PR template's AI Usage section. If AI was used, identify what it su
 
 ## Branch Name
 
-`task/next-005-metadata-images-and-seo`
+`task/<github-username>/next-005-metadata-images-and-seo`
 
 ## Commit Message
 
