@@ -1,0 +1,15 @@
+{
+  "name": "intern-workbench",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub-native internship curriculum and workflow framework",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validation/validate.mjs",
+    "catalogue": "node scripts/curriculum/catalogue.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

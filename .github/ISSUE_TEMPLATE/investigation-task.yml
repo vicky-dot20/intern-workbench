@@ -1,0 +1,45 @@
+name: Investigation task
+description: Create a structured investigate assignment
+title: "[TASK-ID] "
+labels: ["internship", "investigate"]
+body:
+  - type: input
+    id: task_id
+    attributes: { label: Task ID, placeholder: "JS-001" }
+    validations: { required: true }
+  - type: textarea
+    id: objective
+    attributes: { label: Objective }
+    validations: { required: true }
+  - type: textarea
+    id: context
+    attributes: { label: Context and prerequisites }
+    validations: { required: true }
+  - type: textarea
+    id: requirements
+    attributes: { label: Requirements and restrictions }
+    validations: { required: true }
+  - type: textarea
+    id: acceptance
+    attributes: { label: Acceptance criteria }
+    validations: { required: true }
+  - type: textarea
+    id: testing
+    attributes: { label: Testing and expected evidence }
+    validations: { required: true }
+  - type: textarea
+    id: documentation
+    attributes: { label: Documentation requirements }
+    validations: { required: true }
+  - type: textarea
+    id: ai
+    attributes: { label: AI usage requirements, value: "Disclose use, changes, verification, and understanding in the PR." }
+    validations: { required: true }
+  - type: checkboxes
+    id: done
+    attributes:
+      label: Definition of done
+      options:
+        - label: Scope, validation, documentation, evidence, and review requirements are complete.
+          required: true
+

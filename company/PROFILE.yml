@@ -1,0 +1,9 @@
+company_name: Example Company
+repository_visibility: private-or-public
+primary_stack:
+  node: "22"
+  package_manager: npm
+mentor_contact: "Use an internal team alias"
+approved_ai_tools: []
+default_curriculum_route: standard
+
